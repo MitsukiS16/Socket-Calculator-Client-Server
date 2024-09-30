@@ -1,0 +1,41 @@
+--//--
+
+$ len:hello
+$ 5
+
+--//--
+
+$ len:111
+$ 3
+
+--//--
+
+$ equal:5:3
+$ false
+
+--//--
+
+$ equal:ola:bye
+$ false
+
+--//--
+
+$ cat:1:1
+$ 11
+
+--//--
+
+$ cat:ola:1
+$ 11
+
+--//--
+
+$ break:apple,banana,grape:,
+$ apple, banana, grape
+
+--//--
+
+$ break:1,2,3:,
+$ 1, 2, 3
+
+--//--
