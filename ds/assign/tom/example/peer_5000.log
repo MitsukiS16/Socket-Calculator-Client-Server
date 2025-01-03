@@ -1,0 +1,1012 @@
+Jan 03, 2025 7:16:10 PM Peer addPeer
+INFO: Added peer: localhost:5001
+Jan 03, 2025 7:16:10 PM Peer addPeer
+INFO: Added peer: localhost:5002
+Jan 03, 2025 7:16:10 PM Peer addPeer
+INFO: Added peer: localhost:5003
+Jan 03, 2025 7:16:10 PM Peer addPeer
+INFO: Added peer: localhost:5004
+Jan 03, 2025 7:16:10 PM Peer addPeer
+INFO: Added peer: localhost:5005
+Jan 03, 2025 7:16:10 PM Peer run
+INFO: Peer running on localhost:5000
+Jan 03, 2025 7:16:10 PM Peer sendMessages
+FINE: Generated word: grape
+Jan 03, 2025 7:16:10 PM Peer sendMessageToPeer
+WARNING: Failed to send message to localhost:5001: Connection refused
+Jan 03, 2025 7:16:10 PM Peer sendMessageToPeer
+WARNING: Failed to send message to localhost:5002: Connection refused
+Jan 03, 2025 7:16:10 PM Peer sendMessageToPeer
+WARNING: Failed to send message to localhost:5003: Connection refused
+Jan 03, 2025 7:16:10 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=1, senderPort=5005}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:10 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=1, senderPort=5005}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:10 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='grape', timestamp=1, senderPort=5000}
+Jan 03, 2025 7:16:10 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='grape', timestamp=1, senderPort=5000}
+Jan 03, 2025 7:16:10 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=1, senderPort=5004}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:10 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=1, senderPort=5004}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:10 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=1, senderPort=5002}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:10 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=1, senderPort=5002}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:10 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=1, senderPort=5001}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:10 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=1, senderPort=5001}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:10 PM Peer listenForMessages
+INFO: Received message: Message{content='cherry', timestamp=1, senderPort=5003}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:10 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='cherry', timestamp=1, senderPort=5003}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+INFO: Processed message: cherry
+Jan 03, 2025 7:16:10 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=5, senderPort=5004}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:10 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=5, senderPort=5004}
+Jan 03, 2025 7:16:10 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:11 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=6, senderPort=5002}
+Jan 03, 2025 7:16:11 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:11 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=6, senderPort=5002}
+Jan 03, 2025 7:16:11 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:11 PM Peer listenForMessages
+INFO: Received message: Message{content='banana', timestamp=7, senderPort=5002}
+Jan 03, 2025 7:16:11 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:11 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='banana', timestamp=7, senderPort=5002}
+Jan 03, 2025 7:16:11 PM Peer processMessages
+INFO: Processed message: banana
+Jan 03, 2025 7:16:11 PM Peer listenForMessages
+INFO: Received message: Message{content='honeydew', timestamp=10, senderPort=5005}
+Jan 03, 2025 7:16:11 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:11 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='honeydew', timestamp=10, senderPort=5005}
+Jan 03, 2025 7:16:11 PM Peer processMessages
+INFO: Processed message: honeydew
+Jan 03, 2025 7:16:11 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=11, senderPort=5002}
+Jan 03, 2025 7:16:11 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:11 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=11, senderPort=5002}
+Jan 03, 2025 7:16:11 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:12 PM Peer sendMessages
+FINE: Generated word: elderberry
+Jan 03, 2025 7:16:12 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='elderberry', timestamp=12, senderPort=5000}
+Jan 03, 2025 7:16:12 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='elderberry', timestamp=12, senderPort=5000}
+Jan 03, 2025 7:16:12 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='elderberry', timestamp=12, senderPort=5000}
+Jan 03, 2025 7:16:12 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='elderberry', timestamp=12, senderPort=5000}
+Jan 03, 2025 7:16:12 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='elderberry', timestamp=12, senderPort=5000}
+Jan 03, 2025 7:16:12 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=13, senderPort=5004}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:12 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=13, senderPort=5004}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:12 PM Peer listenForMessages
+INFO: Received message: Message{content='honeydew', timestamp=14, senderPort=5005}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:12 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='honeydew', timestamp=14, senderPort=5005}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+INFO: Processed message: honeydew
+Jan 03, 2025 7:16:12 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=15, senderPort=5003}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:12 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=15, senderPort=5003}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:12 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=16, senderPort=5001}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:12 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=16, senderPort=5001}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:12 PM Peer listenForMessages
+INFO: Received message: Message{content='honeydew', timestamp=17, senderPort=5002}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:12 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='honeydew', timestamp=17, senderPort=5002}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+INFO: Processed message: honeydew
+Jan 03, 2025 7:16:12 PM Peer listenForMessages
+INFO: Received message: Message{content='cherry', timestamp=18, senderPort=5003}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:12 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='cherry', timestamp=18, senderPort=5003}
+Jan 03, 2025 7:16:12 PM Peer processMessages
+INFO: Processed message: cherry
+Jan 03, 2025 7:16:13 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=19, senderPort=5004}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:13 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=19, senderPort=5004}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:13 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=19, senderPort=5005}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:13 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=19, senderPort=5005}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:13 PM Peer listenForMessages
+INFO: Received message: Message{content='honeydew', timestamp=21, senderPort=5003}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:13 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='honeydew', timestamp=21, senderPort=5003}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+INFO: Processed message: honeydew
+Jan 03, 2025 7:16:13 PM Peer sendMessages
+FINE: Generated word: fig
+Jan 03, 2025 7:16:13 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='fig', timestamp=22, senderPort=5000}
+Jan 03, 2025 7:16:13 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='fig', timestamp=22, senderPort=5000}
+Jan 03, 2025 7:16:13 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='fig', timestamp=22, senderPort=5000}
+Jan 03, 2025 7:16:13 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='fig', timestamp=22, senderPort=5000}
+Jan 03, 2025 7:16:13 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='fig', timestamp=22, senderPort=5000}
+Jan 03, 2025 7:16:13 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=23, senderPort=5001}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:13 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=23, senderPort=5001}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:13 PM Peer listenForMessages
+INFO: Received message: Message{content='honeydew', timestamp=24, senderPort=5003}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:13 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='honeydew', timestamp=24, senderPort=5003}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+INFO: Processed message: honeydew
+Jan 03, 2025 7:16:13 PM Peer listenForMessages
+INFO: Received message: Message{content='honeydew', timestamp=25, senderPort=5002}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:13 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='honeydew', timestamp=25, senderPort=5002}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+INFO: Processed message: honeydew
+Jan 03, 2025 7:16:13 PM Peer listenForMessages
+INFO: Received message: Message{content='date', timestamp=26, senderPort=5002}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:13 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='date', timestamp=26, senderPort=5002}
+Jan 03, 2025 7:16:13 PM Peer processMessages
+INFO: Processed message: date
+Jan 03, 2025 7:16:14 PM Peer sendMessages
+FINE: Generated word: banana
+Jan 03, 2025 7:16:14 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='banana', timestamp=27, senderPort=5000}
+Jan 03, 2025 7:16:14 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='banana', timestamp=27, senderPort=5000}
+Jan 03, 2025 7:16:14 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='banana', timestamp=27, senderPort=5000}
+Jan 03, 2025 7:16:14 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='banana', timestamp=27, senderPort=5000}
+Jan 03, 2025 7:16:14 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='banana', timestamp=27, senderPort=5000}
+Jan 03, 2025 7:16:14 PM Peer listenForMessages
+INFO: Received message: Message{content='date', timestamp=28, senderPort=5001}
+Jan 03, 2025 7:16:14 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:14 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='date', timestamp=28, senderPort=5001}
+Jan 03, 2025 7:16:14 PM Peer processMessages
+INFO: Processed message: date
+Jan 03, 2025 7:16:14 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=29, senderPort=5001}
+Jan 03, 2025 7:16:14 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:14 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=29, senderPort=5001}
+Jan 03, 2025 7:16:14 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:14 PM Peer listenForMessages
+INFO: Received message: Message{content='honeydew', timestamp=30, senderPort=5001}
+Jan 03, 2025 7:16:14 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:14 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='honeydew', timestamp=30, senderPort=5001}
+Jan 03, 2025 7:16:14 PM Peer processMessages
+INFO: Processed message: honeydew
+Jan 03, 2025 7:16:14 PM Peer sendMessages
+FINE: Generated word: date
+Jan 03, 2025 7:16:14 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='date', timestamp=31, senderPort=5000}
+Jan 03, 2025 7:16:14 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='date', timestamp=31, senderPort=5000}
+Jan 03, 2025 7:16:14 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='date', timestamp=31, senderPort=5000}
+Jan 03, 2025 7:16:14 PM Peer listenForMessages
+INFO: Received message: Message{content='date', timestamp=31, senderPort=5005}
+Jan 03, 2025 7:16:14 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:14 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='date', timestamp=31, senderPort=5005}
+Jan 03, 2025 7:16:14 PM Peer processMessages
+INFO: Processed message: date
+Jan 03, 2025 7:16:14 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='date', timestamp=31, senderPort=5000}
+Jan 03, 2025 7:16:14 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='date', timestamp=31, senderPort=5000}
+Jan 03, 2025 7:16:15 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=33, senderPort=5003}
+Jan 03, 2025 7:16:15 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:15 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=33, senderPort=5003}
+Jan 03, 2025 7:16:15 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:15 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=34, senderPort=5001}
+Jan 03, 2025 7:16:15 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:15 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=34, senderPort=5001}
+Jan 03, 2025 7:16:15 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:16 PM Peer sendMessages
+FINE: Generated word: grape
+Jan 03, 2025 7:16:16 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='grape', timestamp=35, senderPort=5000}
+Jan 03, 2025 7:16:16 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='grape', timestamp=35, senderPort=5000}
+Jan 03, 2025 7:16:16 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='grape', timestamp=35, senderPort=5000}
+Jan 03, 2025 7:16:16 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='grape', timestamp=35, senderPort=5000}
+Jan 03, 2025 7:16:16 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='grape', timestamp=35, senderPort=5000}
+Jan 03, 2025 7:16:16 PM Peer listenForMessages
+INFO: Received message: Message{content='cherry', timestamp=36, senderPort=5005}
+Jan 03, 2025 7:16:16 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:16 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='cherry', timestamp=36, senderPort=5005}
+Jan 03, 2025 7:16:16 PM Peer processMessages
+INFO: Processed message: cherry
+Jan 03, 2025 7:16:16 PM Peer sendMessages
+FINE: Generated word: cherry
+Jan 03, 2025 7:16:16 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='cherry', timestamp=37, senderPort=5000}
+Jan 03, 2025 7:16:16 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='cherry', timestamp=37, senderPort=5000}
+Jan 03, 2025 7:16:16 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='cherry', timestamp=37, senderPort=5000}
+Jan 03, 2025 7:16:16 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='cherry', timestamp=37, senderPort=5000}
+Jan 03, 2025 7:16:16 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='cherry', timestamp=37, senderPort=5000}
+Jan 03, 2025 7:16:16 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=38, senderPort=5004}
+Jan 03, 2025 7:16:16 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:16 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=38, senderPort=5004}
+Jan 03, 2025 7:16:16 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:16 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=39, senderPort=5005}
+Jan 03, 2025 7:16:16 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:16 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=39, senderPort=5005}
+Jan 03, 2025 7:16:16 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:16 PM Peer listenForMessages
+INFO: Received message: Message{content='honeydew', timestamp=40, senderPort=5002}
+Jan 03, 2025 7:16:16 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:16 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='honeydew', timestamp=40, senderPort=5002}
+Jan 03, 2025 7:16:16 PM Peer processMessages
+INFO: Processed message: honeydew
+Jan 03, 2025 7:16:16 PM Peer listenForMessages
+INFO: Received message: Message{content='banana', timestamp=41, senderPort=5003}
+Jan 03, 2025 7:16:16 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:16 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='banana', timestamp=41, senderPort=5003}
+Jan 03, 2025 7:16:16 PM Peer processMessages
+INFO: Processed message: banana
+Jan 03, 2025 7:16:17 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=42, senderPort=5003}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:17 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=42, senderPort=5003}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:17 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=42, senderPort=5005}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:17 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=42, senderPort=5005}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:17 PM Peer listenForMessages
+INFO: Received message: Message{content='cherry', timestamp=44, senderPort=5003}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:17 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='cherry', timestamp=44, senderPort=5003}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+INFO: Processed message: cherry
+Jan 03, 2025 7:16:17 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=45, senderPort=5001}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:17 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=45, senderPort=5001}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:17 PM Peer listenForMessages
+INFO: Received message: Message{content='cherry', timestamp=46, senderPort=5004}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:17 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='cherry', timestamp=46, senderPort=5004}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+INFO: Processed message: cherry
+Jan 03, 2025 7:16:17 PM Peer listenForMessages
+INFO: Received message: Message{content='cherry', timestamp=47, senderPort=5001}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:17 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='cherry', timestamp=47, senderPort=5001}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+INFO: Processed message: cherry
+Jan 03, 2025 7:16:17 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=47, senderPort=5003}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:17 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=47, senderPort=5003}
+Jan 03, 2025 7:16:17 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:17 PM Peer sendMessages
+FINE: Generated word: honeydew
+Jan 03, 2025 7:16:17 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='honeydew', timestamp=49, senderPort=5000}
+Jan 03, 2025 7:16:17 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='honeydew', timestamp=49, senderPort=5000}
+Jan 03, 2025 7:16:17 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='honeydew', timestamp=49, senderPort=5000}
+Jan 03, 2025 7:16:17 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='honeydew', timestamp=49, senderPort=5000}
+Jan 03, 2025 7:16:17 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='honeydew', timestamp=49, senderPort=5000}
+Jan 03, 2025 7:16:18 PM Peer listenForMessages
+INFO: Received message: Message{content='date', timestamp=50, senderPort=5002}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:18 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='date', timestamp=50, senderPort=5002}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+INFO: Processed message: date
+Jan 03, 2025 7:16:18 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=51, senderPort=5002}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:18 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=51, senderPort=5002}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:18 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=52, senderPort=5005}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:18 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=52, senderPort=5005}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:18 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=53, senderPort=5005}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:18 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=53, senderPort=5005}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:18 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=54, senderPort=5005}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:18 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=54, senderPort=5005}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:18 PM Peer listenForMessages
+INFO: Received message: Message{content='cherry', timestamp=55, senderPort=5003}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:18 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='cherry', timestamp=55, senderPort=5003}
+Jan 03, 2025 7:16:18 PM Peer processMessages
+INFO: Processed message: cherry
+Jan 03, 2025 7:16:19 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=56, senderPort=5002}
+Jan 03, 2025 7:16:19 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:19 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=56, senderPort=5002}
+Jan 03, 2025 7:16:19 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:19 PM Peer listenForMessages
+INFO: Received message: Message{content='date', timestamp=56, senderPort=5005}
+Jan 03, 2025 7:16:19 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:19 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='date', timestamp=56, senderPort=5005}
+Jan 03, 2025 7:16:19 PM Peer processMessages
+INFO: Processed message: date
+Jan 03, 2025 7:16:19 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=58, senderPort=5002}
+Jan 03, 2025 7:16:19 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:19 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=58, senderPort=5002}
+Jan 03, 2025 7:16:19 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:19 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=59, senderPort=5001}
+Jan 03, 2025 7:16:19 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:19 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=59, senderPort=5001}
+Jan 03, 2025 7:16:19 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:20 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=60, senderPort=5005}
+Jan 03, 2025 7:16:20 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:20 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=60, senderPort=5005}
+Jan 03, 2025 7:16:20 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:20 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=61, senderPort=5003}
+Jan 03, 2025 7:16:20 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:20 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=61, senderPort=5003}
+Jan 03, 2025 7:16:20 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:20 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=62, senderPort=5005}
+Jan 03, 2025 7:16:20 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:20 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=62, senderPort=5005}
+Jan 03, 2025 7:16:20 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:21 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=63, senderPort=5001}
+Jan 03, 2025 7:16:21 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:21 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=63, senderPort=5001}
+Jan 03, 2025 7:16:21 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:21 PM Peer sendMessages
+FINE: Generated word: apple
+Jan 03, 2025 7:16:21 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='apple', timestamp=64, senderPort=5000}
+Jan 03, 2025 7:16:21 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='apple', timestamp=64, senderPort=5000}
+Jan 03, 2025 7:16:21 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='apple', timestamp=64, senderPort=5000}
+Jan 03, 2025 7:16:21 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='apple', timestamp=64, senderPort=5000}
+Jan 03, 2025 7:16:21 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='apple', timestamp=64, senderPort=5000}
+Jan 03, 2025 7:16:21 PM Peer listenForMessages
+INFO: Received message: Message{content='banana', timestamp=65, senderPort=5004}
+Jan 03, 2025 7:16:21 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:21 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='banana', timestamp=65, senderPort=5004}
+Jan 03, 2025 7:16:21 PM Peer processMessages
+INFO: Processed message: banana
+Jan 03, 2025 7:16:21 PM Peer sendMessages
+FINE: Generated word: elderberry
+Jan 03, 2025 7:16:21 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='elderberry', timestamp=66, senderPort=5000}
+Jan 03, 2025 7:16:21 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='elderberry', timestamp=66, senderPort=5000}
+Jan 03, 2025 7:16:21 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='elderberry', timestamp=66, senderPort=5000}
+Jan 03, 2025 7:16:21 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='elderberry', timestamp=66, senderPort=5000}
+Jan 03, 2025 7:16:21 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='elderberry', timestamp=66, senderPort=5000}
+Jan 03, 2025 7:16:21 PM Peer listenForMessages
+INFO: Received message: Message{content='banana', timestamp=67, senderPort=5004}
+Jan 03, 2025 7:16:21 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:21 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='banana', timestamp=67, senderPort=5004}
+Jan 03, 2025 7:16:21 PM Peer processMessages
+INFO: Processed message: banana
+Jan 03, 2025 7:16:22 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=68, senderPort=5004}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:22 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=68, senderPort=5004}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:22 PM Peer listenForMessages
+INFO: Received message: Message{content='banana', timestamp=69, senderPort=5002}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:22 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='banana', timestamp=69, senderPort=5002}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+INFO: Processed message: banana
+Jan 03, 2025 7:16:22 PM Peer listenForMessages
+INFO: Received message: Message{content='cherry', timestamp=70, senderPort=5005}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:22 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='cherry', timestamp=70, senderPort=5005}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+INFO: Processed message: cherry
+Jan 03, 2025 7:16:22 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=71, senderPort=5005}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:22 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=71, senderPort=5005}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:22 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=72, senderPort=5005}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:22 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=72, senderPort=5005}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:22 PM Peer listenForMessages
+INFO: Received message: Message{content='date', timestamp=73, senderPort=5004}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:22 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='date', timestamp=73, senderPort=5004}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+INFO: Processed message: date
+Jan 03, 2025 7:16:22 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=74, senderPort=5002}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:22 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=74, senderPort=5002}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:22 PM Peer listenForMessages
+INFO: Received message: Message{content='honeydew', timestamp=75, senderPort=5003}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:22 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='honeydew', timestamp=75, senderPort=5003}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+INFO: Processed message: honeydew
+Jan 03, 2025 7:16:22 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=76, senderPort=5002}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:22 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=76, senderPort=5002}
+Jan 03, 2025 7:16:22 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:23 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=77, senderPort=5005}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:23 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=77, senderPort=5005}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:23 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=77, senderPort=5003}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:23 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=77, senderPort=5003}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:23 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=79, senderPort=5005}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:23 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=79, senderPort=5005}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:23 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=80, senderPort=5003}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:23 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=80, senderPort=5003}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:23 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=81, senderPort=5005}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:23 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=81, senderPort=5005}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:23 PM Peer listenForMessages
+INFO: Received message: Message{content='banana', timestamp=82, senderPort=5002}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:23 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='banana', timestamp=82, senderPort=5002}
+Jan 03, 2025 7:16:23 PM Peer processMessages
+INFO: Processed message: banana
+Jan 03, 2025 7:16:24 PM Peer listenForMessages
+INFO: Received message: Message{content='cherry', timestamp=83, senderPort=5005}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:24 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='cherry', timestamp=83, senderPort=5005}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+INFO: Processed message: cherry
+Jan 03, 2025 7:16:24 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=84, senderPort=5003}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:24 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=84, senderPort=5003}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:24 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=85, senderPort=5005}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:24 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=85, senderPort=5005}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:24 PM Peer listenForMessages
+INFO: Received message: Message{content='date', timestamp=86, senderPort=5005}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:24 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='date', timestamp=86, senderPort=5005}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+INFO: Processed message: date
+Jan 03, 2025 7:16:24 PM Peer sendMessages
+FINE: Generated word: honeydew
+Jan 03, 2025 7:16:24 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='honeydew', timestamp=87, senderPort=5000}
+Jan 03, 2025 7:16:24 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='honeydew', timestamp=87, senderPort=5000}
+Jan 03, 2025 7:16:24 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='honeydew', timestamp=87, senderPort=5000}
+Jan 03, 2025 7:16:24 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='honeydew', timestamp=87, senderPort=5000}
+Jan 03, 2025 7:16:24 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='honeydew', timestamp=87, senderPort=5000}
+Jan 03, 2025 7:16:24 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=88, senderPort=5004}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:24 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=88, senderPort=5004}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:24 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=88, senderPort=5001}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:24 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=88, senderPort=5001}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:24 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=88, senderPort=5005}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:24 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=88, senderPort=5005}
+Jan 03, 2025 7:16:24 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:25 PM Peer listenForMessages
+INFO: Received message: Message{content='date', timestamp=91, senderPort=5001}
+Jan 03, 2025 7:16:25 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:25 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='date', timestamp=91, senderPort=5001}
+Jan 03, 2025 7:16:25 PM Peer processMessages
+INFO: Processed message: date
+Jan 03, 2025 7:16:25 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=92, senderPort=5002}
+Jan 03, 2025 7:16:25 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:25 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=92, senderPort=5002}
+Jan 03, 2025 7:16:25 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:25 PM Peer sendMessages
+FINE: Generated word: date
+Jan 03, 2025 7:16:25 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='date', timestamp=93, senderPort=5000}
+Jan 03, 2025 7:16:25 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='date', timestamp=93, senderPort=5000}
+Jan 03, 2025 7:16:25 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='date', timestamp=93, senderPort=5000}
+Jan 03, 2025 7:16:25 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='date', timestamp=93, senderPort=5000}
+Jan 03, 2025 7:16:25 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='date', timestamp=93, senderPort=5000}
+Jan 03, 2025 7:16:25 PM Peer listenForMessages
+INFO: Received message: Message{content='honeydew', timestamp=94, senderPort=5002}
+Jan 03, 2025 7:16:25 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:25 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='honeydew', timestamp=94, senderPort=5002}
+Jan 03, 2025 7:16:25 PM Peer processMessages
+INFO: Processed message: honeydew
+Jan 03, 2025 7:16:25 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=95, senderPort=5004}
+Jan 03, 2025 7:16:25 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:25 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=95, senderPort=5004}
+Jan 03, 2025 7:16:25 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:26 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=96, senderPort=5003}
+Jan 03, 2025 7:16:26 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:26 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=96, senderPort=5003}
+Jan 03, 2025 7:16:26 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:26 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=97, senderPort=5005}
+Jan 03, 2025 7:16:26 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:26 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=97, senderPort=5005}
+Jan 03, 2025 7:16:26 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:26 PM Peer sendMessages
+FINE: Generated word: date
+Jan 03, 2025 7:16:26 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='date', timestamp=98, senderPort=5000}
+Jan 03, 2025 7:16:26 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='date', timestamp=98, senderPort=5000}
+Jan 03, 2025 7:16:26 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='date', timestamp=98, senderPort=5000}
+Jan 03, 2025 7:16:26 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='date', timestamp=98, senderPort=5000}
+Jan 03, 2025 7:16:26 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='date', timestamp=98, senderPort=5000}
+Jan 03, 2025 7:16:27 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=99, senderPort=5005}
+Jan 03, 2025 7:16:27 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:27 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=99, senderPort=5005}
+Jan 03, 2025 7:16:27 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:27 PM Peer listenForMessages
+INFO: Received message: Message{content='banana', timestamp=100, senderPort=5002}
+Jan 03, 2025 7:16:27 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:27 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='banana', timestamp=100, senderPort=5002}
+Jan 03, 2025 7:16:27 PM Peer processMessages
+INFO: Processed message: banana
+Jan 03, 2025 7:16:27 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=101, senderPort=5001}
+Jan 03, 2025 7:16:27 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:27 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=101, senderPort=5001}
+Jan 03, 2025 7:16:27 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:27 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=102, senderPort=5002}
+Jan 03, 2025 7:16:27 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:27 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=102, senderPort=5002}
+Jan 03, 2025 7:16:27 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:28 PM Peer listenForMessages
+INFO: Received message: Message{content='banana', timestamp=103, senderPort=5004}
+Jan 03, 2025 7:16:28 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:28 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='banana', timestamp=103, senderPort=5004}
+Jan 03, 2025 7:16:28 PM Peer processMessages
+INFO: Processed message: banana
+Jan 03, 2025 7:16:28 PM Peer listenForMessages
+INFO: Received message: Message{content='banana', timestamp=104, senderPort=5004}
+Jan 03, 2025 7:16:28 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:28 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='banana', timestamp=104, senderPort=5004}
+Jan 03, 2025 7:16:28 PM Peer processMessages
+INFO: Processed message: banana
+Jan 03, 2025 7:16:29 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=105, senderPort=5001}
+Jan 03, 2025 7:16:29 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:29 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=105, senderPort=5001}
+Jan 03, 2025 7:16:29 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:29 PM Peer sendMessages
+FINE: Generated word: fig
+Jan 03, 2025 7:16:29 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='fig', timestamp=106, senderPort=5000}
+Jan 03, 2025 7:16:29 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='fig', timestamp=106, senderPort=5000}
+Jan 03, 2025 7:16:29 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='fig', timestamp=106, senderPort=5000}
+Jan 03, 2025 7:16:29 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='fig', timestamp=106, senderPort=5000}
+Jan 03, 2025 7:16:29 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='fig', timestamp=106, senderPort=5000}
+Jan 03, 2025 7:16:29 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=107, senderPort=5003}
+Jan 03, 2025 7:16:29 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:29 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=107, senderPort=5003}
+Jan 03, 2025 7:16:29 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:29 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=108, senderPort=5005}
+Jan 03, 2025 7:16:29 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:29 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=108, senderPort=5005}
+Jan 03, 2025 7:16:29 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:30 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=109, senderPort=5002}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:30 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=109, senderPort=5002}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:30 PM Peer listenForMessages
+INFO: Received message: Message{content='cherry', timestamp=110, senderPort=5005}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:30 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='cherry', timestamp=110, senderPort=5005}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+INFO: Processed message: cherry
+Jan 03, 2025 7:16:30 PM Peer listenForMessages
+INFO: Received message: Message{content='apple', timestamp=110, senderPort=5004}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:30 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='apple', timestamp=110, senderPort=5004}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+INFO: Processed message: apple
+Jan 03, 2025 7:16:30 PM Peer listenForMessages
+INFO: Received message: Message{content='elderberry', timestamp=112, senderPort=5001}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:30 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='elderberry', timestamp=112, senderPort=5001}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+INFO: Processed message: elderberry
+Jan 03, 2025 7:16:30 PM Peer listenForMessages
+INFO: Received message: Message{content='grape', timestamp=113, senderPort=5004}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:30 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='grape', timestamp=113, senderPort=5004}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+INFO: Processed message: grape
+Jan 03, 2025 7:16:30 PM Peer sendMessages
+FINE: Generated word: fig
+Jan 03, 2025 7:16:30 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5001 -> Message{content='fig', timestamp=114, senderPort=5000}
+Jan 03, 2025 7:16:30 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5002 -> Message{content='fig', timestamp=114, senderPort=5000}
+Jan 03, 2025 7:16:30 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5003 -> Message{content='fig', timestamp=114, senderPort=5000}
+Jan 03, 2025 7:16:30 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5004 -> Message{content='fig', timestamp=114, senderPort=5000}
+Jan 03, 2025 7:16:30 PM Peer sendMessageToPeer
+INFO: Sent message to localhost:5005 -> Message{content='fig', timestamp=114, senderPort=5000}
+Jan 03, 2025 7:16:30 PM Peer listenForMessages
+INFO: Received message: Message{content='date', timestamp=115, senderPort=5002}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:30 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='date', timestamp=115, senderPort=5002}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+INFO: Processed message: date
+Jan 03, 2025 7:16:30 PM Peer listenForMessages
+INFO: Received message: Message{content='date', timestamp=116, senderPort=5001}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:30 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='date', timestamp=116, senderPort=5001}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+INFO: Processed message: date
+Jan 03, 2025 7:16:30 PM Peer listenForMessages
+INFO: Received message: Message{content='fig', timestamp=117, senderPort=5001}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+FINE: Attempting to process messages...
+Jan 03, 2025 7:16:30 PM Peer canProcess
+FINE: Checking if message can be processed: Message{content='fig', timestamp=117, senderPort=5001}
+Jan 03, 2025 7:16:30 PM Peer processMessages
+INFO: Processed message: fig
+Jan 03, 2025 7:16:31 PM Peer close
+INFO: Server socket closed.
+Jan 03, 2025 7:16:31 PM Peer close
+INFO: Server socket closed.

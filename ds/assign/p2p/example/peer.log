@@ -1,0 +1,40 @@
+Jan 03, 2025 2:35:22 AM Peer run
+INFO: Starting peer on localhost:5004
+Jan 03, 2025 2:35:22 AM Peer retryConnectionToPeer
+INFO: Attempting to connect to peer: localhost:5002
+Jan 03, 2025 2:35:22 AM Peer retryConnectionToPeer
+INFO: Connected to peer: localhost:5002
+Jan 03, 2025 2:35:22 AM Peer retryConnectionToPeer
+INFO: Attempting to connect to peer: localhost:5005
+Jan 03, 2025 2:35:22 AM Peer retryConnectionToPeer
+INFO: Connected to peer: localhost:5005
+Jan 03, 2025 2:35:22 AM Peer retryConnectionToPeer
+INFO: Attempting to connect to peer: localhost:5006
+Jan 03, 2025 2:35:22 AM Peer retryConnectionToPeer
+INFO: Connected to peer: localhost:5006
+Jan 03, 2025 2:35:22 AM Peer lambda$initiatePeriodicPeerMapBroadcast$2
+INFO: Sent peer map to localhost:5006
+Jan 03, 2025 2:35:22 AM Peer listenForIncomingConnections
+INFO: New connection from: /127.0.0.1:49046
+Jan 03, 2025 2:35:22 AM Peer listenForIncomingConnections
+INFO: New connection from: /127.0.0.1:49062
+Jan 03, 2025 2:35:22 AM Peer lambda$handleDataFromConnectedPeer$1
+INFO: Merging peer map from: /127.0.0.1:49046
+Jan 03, 2025 2:35:22 AM Peer listenForIncomingConnections
+INFO: New connection from: /127.0.0.1:49072
+Jan 03, 2025 2:35:22 AM Peer lambda$handleDataFromConnectedPeer$1
+INFO: Merging peer map from: /127.0.0.1:49062
+Jan 03, 2025 2:35:22 AM Peer lambda$handleDataFromConnectedPeer$1
+INFO: Merging peer map from: /127.0.0.1:49072
+Jan 03, 2025 2:35:27 AM Peer lambda$initiatePeriodicPeerMapBroadcast$2
+INFO: Sent peer map to localhost:5002
+Jan 03, 2025 2:35:38 AM Peer lambda$handleDataFromConnectedPeer$1
+INFO: Merging peer map from: /127.0.0.1:49062
+Jan 03, 2025 2:35:42 AM Peer lambda$handleDataFromConnectedPeer$1
+INFO: Merging peer map from: /127.0.0.1:49046
+Jan 03, 2025 2:35:42 AM Peer close
+INFO: Shutting down peer...
+Jan 03, 2025 2:36:22 AM Peer lambda$initiatePeriodicCleanup$3
+INFO: Stale peers removed from PeerMap.
+Jan 03, 2025 2:36:22 AM Peer close
+INFO: Shutting down peer...
