@@ -1,0 +1,3412 @@
+Dec 30, 2024 4:00:20 PM CalculatorMultiServer <init>
+INFO: Server initialized at localhost:3000
+Dec 30, 2024 4:00:20 PM CalculatorMultiServer listenForClients
+INFO: Server started. Waiting for client connections...
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:23.17:69.56
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 92.73
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:56.80:63.22
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -6.42
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:94.17:0.29
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 27.31
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:17.12:46.48
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 795.74
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:82.72:14.90
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1232.53
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:42.22:99.69
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4208.91
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:33.74:66.47
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 100.21
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:64.46:34.45
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 98.91
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:78.83:33.89
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 112.72
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:6.78:67.71
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 459.07
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:4.96:9.95
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -4.99
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:1.00:77.53
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.01
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:33.08:98.42
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.34
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:15.33:49.10
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.31
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:13.77:50.33
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 693.04
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:3.78:70.73
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -66.95
+Dec 30, 2024 4:00:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:82.65:42.16
+Dec 30, 2024 4:00:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.96
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:16.48:82.56
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -66.08
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:28.41:78.35
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 106.76
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:29.03:97.29
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2824.33
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:19.39:1.74
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 21.13
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:42.83:78.73
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3372.01
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:48.74:86.54
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 135.28
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:47.22:79.26
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.60
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:28.16:54.62
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.52
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:86.11:31.20
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 54.91
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:9.12:66.05
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.14
+Dec 30, 2024 4:00:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:60.18:50.32
+Dec 30, 2024 4:00:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.20
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:64.36:6.16
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 70.52
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:20.91:13.18
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 7.73
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:19.31:80.24
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.24
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:46.81:76.48
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -29.67
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:98.40:60.90
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.62
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:84.47:78.97
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5.50
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:48.75:94.39
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.52
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:44.01:71.97
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 115.98
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:40.82:94.04
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.43
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:12.59:33.13
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 45.72
+Dec 30, 2024 4:00:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:95.42:66.80
+Dec 30, 2024 4:00:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.43
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:22.99:98.73
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.23
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:80.30:63.33
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.27
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:85.44:7.02
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 78.42
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:55.35:3.73
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 206.46
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:6.89:46.92
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.15
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:45.08:95.14
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -50.06
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:59.42:63.86
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.93
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:85.13:99.43
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.86
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:32.15:40.69
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1308.18
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:46.94:85.90
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.55
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:85.27:26.68
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3.20
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:51.16:0.24
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 50.92
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:68.19:38.71
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2639.63
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:39.98:79.36
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -39.38
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:96.91:79.14
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 17.77
+Dec 30, 2024 4:00:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:32.24:89.01
+Dec 30, 2024 4:00:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -56.77
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:40.41:4.15
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 44.56
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:66.08:51.40
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 117.48
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:87.31:70.40
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 157.71
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:82.08:19.67
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1614.51
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:10.76:23.22
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -12.46
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:18.58:51.57
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -32.99
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:50.63:13.73
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 64.36
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:85.87:11.08
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 96.95
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:54.83:34.64
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.58
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:16.96:15.41
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 32.37
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:82.55:89.80
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 7412.99
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:53.67:1.21
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 64.94
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:29.55:92.41
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -62.86
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:38.33:46.07
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -7.74
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:82.25:33.64
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2.45
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:86.31:25.54
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 60.77
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:22.48:51.07
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 73.55
+Dec 30, 2024 4:00:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:36.19:79.57
+Dec 30, 2024 4:00:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 115.76
+Dec 30, 2024 4:00:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:00:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:00:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:87.87:81.65
+Dec 30, 2024 4:00:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 7174.59
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:92.72:90.22
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 8365.20
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:84.65:19.65
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 104.30
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:45.13:59.42
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 104.55
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:45.44:79.39
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 124.83
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:15.40:14.55
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.06
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:46.80:17.90
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 837.72
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:29.66:4.09
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 25.57
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:22.69:28.03
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 50.72
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:7.98:89.54
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.09
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:9.04:50.06
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -41.02
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:50.24:3.27
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 15.36
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:37.14:28.35
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.31
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:36.57:92.41
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.40
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:98.54:0.87
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 85.73
+Dec 30, 2024 4:01:07 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:79.03:21.04
+Dec 30, 2024 4:01:07 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3.76
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:28.28:82.76
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 111.04
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:43.05:88.13
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3794.00
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:91.91:78.40
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 13.51
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:13.61:42.61
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 56.22
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:55.87:3.63
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 59.50
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:75.49:85.13
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 160.62
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:43.88:76.26
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.58
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:47.55:33.05
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 14.50
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:44.57:47.81
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2130.89
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:80.45:12.72
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1023.32
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:86.41:26.83
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3.22
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:96.11:29.52
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 125.63
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:66.03:37.24
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 103.27
+Dec 30, 2024 4:01:08 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:0.79:6.86
+Dec 30, 2024 4:01:08 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -6.07
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:40.02:97.30
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.41
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:15.94:40.84
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -24.90
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:94.46:10.68
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1008.83
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:32.16:91.68
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2948.43
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:83.65:89.16
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 7458.23
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:25.07:92.40
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 117.47
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:18.15:61.25
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1111.69
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:60.66:4.31
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 14.07
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:1.37:92.10
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 126.18
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:12.15:93.81
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -81.66
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:93.68:46.39
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2.02
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:11.61:4.48
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2.59
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:79.37:14.18
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1125.47
+Dec 30, 2024 4:01:09 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:21.03:49.44
+Dec 30, 2024 4:01:09 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.43
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:41.93:19.14
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2.19
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:9.99:20.96
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 209.39
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:16.71:1.41
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 11.85
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:98.74:66.29
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 165.03
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:79.43:69.52
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.14
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:97.13:44.55
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4327.14
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:30.10:81.69
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -51.59
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:30.25:88.66
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -58.41
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:94.05:13.63
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 107.68
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:70.34:45.17
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 25.17
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:25.65:76.95
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -51.30
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:33.02:61.79
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 94.81
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:54.75:36.45
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1995.64
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:41.98:87.44
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 129.42
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:96.60:29.94
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 126.54
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:12.13:51.49
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 624.57
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:38.60:34.44
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4.16
+Dec 30, 2024 4:01:10 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:0.32:22.72
+Dec 30, 2024 4:01:10 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 7.27
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:21.86:58.23
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 80.09
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:5.28:70.23
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 370.81
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:76.30:69.87
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 6.43
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:75.98:44.59
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 31.39
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:72.86:4.28
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 17.02
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:62.67:56.10
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3515.79
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:64.06:65.72
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -1.66
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:16.54:56.43
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 72.97
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:18.06:90.50
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -72.44
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:51.85:30.19
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 21.66
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:82.36:79.56
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 6552.56
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:91.84:92.91
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 184.75
+Dec 30, 2024 4:01:11 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:57.13:52.75
+Dec 30, 2024 4:01:11 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3013.61
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:33.37:56.38
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 89.75
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:78.46:8.43
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 9.31
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:67.81:5.47
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 62.34
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:29.90:33.44
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 63.34
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:7.81:66.76
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -58.95
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:49.40:85.98
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.57
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:6.41:5.31
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.21
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:53.91:98.33
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 152.24
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:50.35:6.70
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 7.51
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:63.01:83.39
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 146.40
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:86.50:70.76
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 15.74
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:14.01:25.48
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -11.47
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:79.66:44.74
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.78
+Dec 30, 2024 4:01:12 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:40.84:72.20
+Dec 30, 2024 4:01:12 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2948.65
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:73.40:38.74
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 34.66
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:92.27:98.88
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 191.15
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:99.23:72.32
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 7176.31
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:9.65:0.29
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 9.36
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:85.45:68.42
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 17.03
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:25.71:5.19
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 30.90
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:63.65:1.17
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 64.82
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:12.03:55.77
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 670.91
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:76.09:60.73
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4620.95
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:11.94:3.28
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 39.16
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:15.16:75.93
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 91.09
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:4.65:1.21
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5.63
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:61.43:88.75
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.69
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:68.22:81.42
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 149.64
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:90.21:16.55
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 106.76
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:85.35:88.34
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 7539.82
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:29.12:44.57
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 73.69
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:27.68:45.81
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 73.49
+Dec 30, 2024 4:01:13 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:16.92:1.29
+Dec 30, 2024 4:01:13 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 13.12
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:94.13:91.44
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.03
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:89.93:51.89
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 38.04
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:31.36:52.45
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -21.09
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:71.55:12.49
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 893.66
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:70.22:15.71
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 85.93
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:11.38:11.35
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.00
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:36.24:36.05
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 72.29
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:69.49:99.03
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.70
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:61.36:49.68
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 111.04
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:2.03:67.39
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 136.80
+Dec 30, 2024 4:01:14 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:69.65:10.59
+Dec 30, 2024 4:01:14 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 737.59
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:77.51:62.95
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 14.56
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:88.63:44.89
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3978.60
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:72.96:38.09
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 111.05
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:65.65:68.93
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.95
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:80.39:15.28
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 95.67
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:75.41:5.48
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 13.76
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:46.77:7.49
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 39.28
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:58.32:9.61
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 67.93
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:13.87:55.40
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 768.40
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:59.93:90.23
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.66
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:29.57:56.98
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.52
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:30.41:70.70
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 101.11
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:63.91:65.79
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4204.64
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:92.64:61.27
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5676.05
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:51.67:27.76
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.86
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:15.35:2.47
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 12.88
+Dec 30, 2024 4:01:15 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:35.10:60.25
+Dec 30, 2024 4:01:15 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -25.15
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:98.54:60.10
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.64
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:21.06:16.48
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.28
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:83.65:72.42
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 6057.93
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:84.32:37.26
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2.26
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:36.53:83.65
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -47.12
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:80.34:71.11
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5712.98
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:72.12:60.48
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.19
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:91.97:69.97
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 22.00
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:34.49:39.05
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -4.56
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:70.56:13.72
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 56.84
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:46.17:46.67
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2154.75
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:69.53:83.79
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.83
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:55.79:32.62
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.71
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:49.41:42.81
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 6.60
+Dec 30, 2024 4:01:16 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:30.45:23.68
+Dec 30, 2024 4:01:16 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 6.77
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:61.17:47.47
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 13.70
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:15.71:63.93
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 79.64
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:76.79:47.63
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3657.51
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:94.77:63.65
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 6032.11
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:48.07:69.14
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.70
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:53.33:63.74
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.84
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:60.20:87.45
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5264.49
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:66.78:12.79
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 53.99
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:44.20:15.27
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 674.93
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:68.18:3.79
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 258.40
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:42.71:92.50
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 135.21
+Dec 30, 2024 4:01:17 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:90.32:52.05
+Dec 30, 2024 4:01:17 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.74
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:74.89:14.56
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 60.33
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:28.75:97.14
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.30
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:20.58:7.13
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 13.45
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:25.82:46.83
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1209.15
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:71.17:19.13
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3.72
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:87.51:62.43
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5463.25
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:53.18:68.51
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.78
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:30.88:52.97
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.58
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:68.92:51.03
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.35
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:69.16:12.98
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 897.70
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:63.66:72.99
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 136.65
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:96.94:26.16
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2535.95
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:1.48:47.18
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.03
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:77.67:37.21
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2.09
+Dec 30, 2024 4:01:18 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:31.33:86.90
+Dec 30, 2024 4:01:18 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.36
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:6.40:73.28
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 468.99
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:94.82:81.05
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 13.77
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:0.38:85.97
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -85.59
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:81.65:58.58
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 140.23
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:70.72:44.85
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 25.87
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:31.19:82.26
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 113.45
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:8.21:55.90
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -47.69
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:86.44:70.31
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 6077.60
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:9.67:25.72
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.38
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:89.62:11.74
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 7.63
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:58.42:92.66
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 151.08
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:15.38:26.96
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 42.34
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:72.50:14.32
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5.06
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:98.48:8.00
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 106.48
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:78.28:45.73
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 124.01
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:8.68:40.30
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 349.80
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:54.94:50.38
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4.56
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:16.08:31.28
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 47.36
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:3.79:27.98
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -24.19
+Dec 30, 2024 4:01:19 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:84.76:83.76
+Dec 30, 2024 4:01:19 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 168.52
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:37.34:45.12
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1684.78
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:8.27:76.75
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -68.48
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:64.76:60.57
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4.19
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:59.28:2.54
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 23.34
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:79.83:96.34
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.83
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:74.63:67.44
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 142.07
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:38.69:79.18
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 117.87
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:41.84:12.70
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3.29
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:46.55:11.40
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 57.95
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:26.23:99.25
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2603.33
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:89.32:94.50
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -5.18
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:42.52:97.32
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 139.84
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:65.03:75.87
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4933.83
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:79.63:64.90
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 14.73
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:22.14:42.75
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.52
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:88.40:88.10
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.00
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:55.75:78.78
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.71
+Dec 30, 2024 4:01:20 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:25.01:96.37
+Dec 30, 2024 4:01:20 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.26
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:1.28:45.99
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.03
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:37.15:59.45
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2208.57
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:1.35:98.17
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 99.52
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:20.99:78.34
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -57.35
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:72.37:19.78
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3.66
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:93.94:62.07
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.51
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:30.86:92.89
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2866.59
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:83.96:90.64
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 7610.13
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:18.88:32.52
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.58
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:2.60:12.93
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -10.33
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:87.72:72.17
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 15.55
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:71.01:56.84
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 127.85
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:99.91:85.31
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 8523.32
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:76.98:6.76
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 520.38
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:79.02:25.40
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 104.42
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:80.28:15.86
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 64.42
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:88.28:17.82
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 70.46
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:13.48:17.07
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 230.10
+Dec 30, 2024 4:01:21 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:38.06:58.95
+Dec 30, 2024 4:01:21 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -20.89
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:52.54:39.33
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 13.21
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:15.47:75.64
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 91.11
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:13.57:48.24
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 654.62
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:40.32:93.60
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.43
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:44.84:6.84
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 6.56
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:76.13:78.75
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 154.88
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:43.19:50.11
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.86
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:30.19:20.14
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 10.05
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:99.35:58.31
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.70
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:10.11:77.02
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -66.91
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:14.01:77.24
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.18
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:39.76:45.88
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -6.12
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:15.19:11.58
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.31
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:33.21:78.03
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 111.24
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:28.78:81.09
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -52.31
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:50.88:87.44
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4448.95
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:59.63:22.39
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1335.12
+Dec 30, 2024 4:01:22 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:84.23:39.90
+Dec 30, 2024 4:01:22 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3360.78
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:42.43:76.88
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3262.02
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:40.68:78.68
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3200.70
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:79.58:7.36
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 585.71
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:33.35:25.12
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 8.23
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:71.39:20.08
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 51.31
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:26.87:77.65
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2086.46
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:64.77:23.82
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1542.82
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:66.65:44.20
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 110.85
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:97.07:51.89
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5036.96
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:72.01:75.96
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 147.97
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:56.29:15.76
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 887.13
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:9.66:57.92
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 559.51
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:44.98:58.62
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.77
+Dec 30, 2024 4:01:23 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:5.97:39.04
+Dec 30, 2024 4:01:23 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 45.01
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:2.20:50.09
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -47.89
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:64.09:48.97
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3138.49
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:86.10:0.90
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 77.49
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:21.04:58.12
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.36
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:78.78:50.59
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 129.37
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:67.91:64.69
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4393.10
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:5.48:4.12
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 22.58
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:6.92:94.26
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 652.28
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:10.52:87.70
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 98.22
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:58.67:38.20
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 20.47
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:47.62:29.33
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 76.95
+Dec 30, 2024 4:01:24 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:67.04:44.24
+Dec 30, 2024 4:01:24 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 22.80
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:54.31:7.36
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 399.72
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:56.41:17.06
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3.31
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:44.16:35.07
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1548.69
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:75.46:7.36
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 555.39
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:80.92:17.61
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 98.53
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:75.96:11.91
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 87.87
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:85.08:43.61
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.95
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:35.73:15.58
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 556.67
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:52.83:50.14
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2.69
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:30.05:36.33
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -6.28
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:24.52:1.27
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 31.14
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:30.81:97.60
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.32
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:54.62:50.63
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.08
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:84.19:9.25
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 9.10
+Dec 30, 2024 4:01:25 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:49.78:39.30
+Dec 30, 2024 4:01:25 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1956.35
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:21.49:61.22
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1315.62
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:84.73:62.53
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5298.17
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:90.06:26.00
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2341.56
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:28.83:50.20
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 79.03
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:25.75:95.80
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.27
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:83.41:17.31
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 66.10
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:78.59:27.43
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 106.02
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:88.07:97.80
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 8613.25
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:13.11:95.17
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.14
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:86.94:75.23
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 11.71
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:10.72:89.85
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -79.13
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:60.11:86.26
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -26.15
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:44.25:7.80
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 52.05
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:20.97:5.47
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3.83
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:70.10:91.76
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -21.66
+Dec 30, 2024 4:01:26 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:26 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:86.63:51.60
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 35.03
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:39.48:84.62
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3340.80
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:37.88:62.52
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2368.26
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:46.38:29.43
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.58
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:88.01:92.01
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 8097.80
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:3.83:15.12
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 57.91
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:64.27:21.59
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 85.86
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:34.68:42.29
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.82
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:35.86:6.84
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5.24
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:69.87:67.45
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2.42
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:9.32:11.53
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.81
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:93.93:8.47
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 85.46
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:88.88:26.29
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 62.59
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:1.78:0.07
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.71
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:97.02:55.71
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 5404.98
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:1.48:21.93
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -20.45
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:56.38:69.29
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.81
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:93.97:15.18
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 78.79
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:99.36:32.58
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 131.94
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:33.83:3.62
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 37.45
+Dec 30, 2024 4:01:27 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:24.93:83.63
+Dec 30, 2024 4:01:27 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 108.56
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:93.40:3.63
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 339.04
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:26.40:39.91
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.66
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:37.69:79.83
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -42.14
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:32.23:28.30
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.14
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:3.25:29.76
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 96.72
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:28.90:14.67
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 423.96
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:35.46:34.39
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 69.85
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:8.07:12.32
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 99.42
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:77.43:51.32
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 26.11
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: add:69.64:67.24
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 136.88
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:65.94:44.98
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2965.98
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:87.78:91.31
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.96
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:45.49:4.68
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 212.89
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:50.76:25.42
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 2.00
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:32.85:53.21
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.62
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:89.90:24.56
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 3.66
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:92.17:87.86
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 4.31
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:76.79:40.51
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1.90
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:14.52:46.25
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.31
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: mul:43.55:39.53
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 1721.53
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:41.04:94.69
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -53.65
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: sub:60.69:92.76
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: -32.07
+Dec 30, 2024 4:01:28 PM CalculatorMultiServer listenForClients
+INFO: New connection established with 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Handling client at 127.0.0.1
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Received command from 127.0.0.1: div:79.26:86.04
+Dec 30, 2024 4:01:28 PM ClientHandler run
+INFO: Response sent to 127.0.0.1: Result: 0.92
